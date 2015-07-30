@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">"Project 1 Dev.F "</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_app_name">FRISKA</string>
+    <string name="text_hint_user_name">User Name</string>
+    <string name="text_hint_password">Password</string>
+    <string name="text_btn_creat_acount">Create an Account</string>
+    <string name="forgot_password">I forgot password?</string>
+    <string name="labelfirstbutton">Create account</string>
+    <string name="title_activity_activity_new">ActivityNew</string>
+    <string name="text_hint_first_name">Fist Name</string>
+    <string name="text_hint_last_name">Last Name</string>
+    <string name="text_hint_password1">Password</string>
+    <string name="text_hint_password_level1">Password Level 1</string>
+    <string name="text_hint_password2">Confirm Password</string>
+    <string name="text_hint_password_level2">Paswword Level 2</string>
+    <string name="text_hint_phone_number">phone number</string>
+    <string name="text_hint_email">email</string>
+    <string name="text_btn_creat_acount2">create account2</string>
+    <string name="text_btn_login">Login</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="text_home">By Home</string>
+    <string name="text_message_full_fields">Falta algun dato de llenar</string>
+    <string name="title_activity_register">Registro de cuenta</string>
+    <string name="text_user">User</string>
+    <string name="text_password">Password</string>
+    <string name="title_activity_form">Register Form</string>
+
+</resources>

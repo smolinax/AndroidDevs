@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lists Example 1 Dev.F - Android</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="name_guest_1">ELISABETH MOSS</string>
+    <string name="name_guest_2">MATTHEW WEINER</string>
+    <string name="name_guest_3">JOHN SLATTERY</string>
+    <string name="name_guest_4">SPIKE JONZE</string>
+</resources>

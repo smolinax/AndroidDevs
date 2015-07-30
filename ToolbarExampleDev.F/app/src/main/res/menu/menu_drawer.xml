@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- single es para que solo se selecciona 1
+    Opciones del Navigation Drawer
+    -->
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/inbox"
+            android:title="Inbox"
+            android:icon="@drawable/inbox">
+        </item>
+        <item
+            android:id="@+id/starred"
+            android:title="Starred"
+            android:icon="@drawable/starred">
+        </item>
+        <item
+            android:id="@+id/sent"
+            android:title="Sent Mail"
+            android:icon="@drawable/sent">
+        </item>
+        <item
+            android:id="@+id/drafts"
+            android:title="Drafts"
+            android:icon="@drawable/draft">
+        </item>
+    </group>
+
+</menu>

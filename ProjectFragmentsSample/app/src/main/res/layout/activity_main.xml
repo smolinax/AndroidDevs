@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <!-- A un fragment se le pone un tag para fragmentos que NO tienne UI
+     Un id para fragmentos que tienen UI-->
+
+    <FrameLayout
+        android:id="@+id/dfcontainer"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.5">
+    </FrameLayout>
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.5"
+        android:background="@color/background_material_light"
+        android:id="@+id/staticfragment"
+        android:name="com.devf.smolinaa.firstapp.projectfragmentssample.UI.Fragment.FragmentoEstatico"
+        tools:layout="@layout/fragmentoestatico">
+    </fragment>
+
+
+</LinearLayout>
